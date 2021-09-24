@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "name": "Facemask Strawberry",
+      "ingredients": "Rp.10.000",
+      "steps":"Facemask Strawberry memiliki kandungan untuk mencerahkan kulit",
+      "image": "https://media.karousell.com/media/photos/products/2021/4/29/masker_organik_by_yoqueen_beau_1619708962_c1f49641.jpg"
+    },
+    {
+      "name": "Facemask Greentea",
+      "ingredients": "Rp.20.000",
+      "steps":"Facemask Greentea memiliki kandungan untuk merawat kulit berjerawat",
+      "image": "data:image/jpeg;base64,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",
+      "lname": "Asus",
+      "lprice":"Rp. 8.000.000",
+      "lurl": "https://i.postimg.cc/0bnBRS6f/asus.png",
+      "ketlp":"Memiliki fitur yang beragam"
+    },
+    {
+      "name": "Facemask Choco",
+      "ingredients": "Rp.30.000",
+      "steps":"Facemask Choco memiliki kandungan untuk melembabkan kulit",
+      "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//94/MTA-7930703/no_brand_masker_organik_by_yoqueen_beauty_100-_original_full03_evkxdgcl.jpg",
+      "lname": "Lenovo",
+      "lprice":"Rp. 4.000.000",
+      "lurl": "https://i.postimg.cc/06MvPc90/lenovolepi.jpg",
+      "ketlp":"Memiliki fitur yang beragam"
+    },
+    {
+      "name": "Facemask Charcoal",
+      "ingredients": "Rp.40.000",
+      "steps":"Facemask Charcoal memiliki kandungan untuk menghilangkan bekas jerawat",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWJ9UpXoMZURuiT7ViQhR1ykFW2fkyjsl-dw&usqp=CAU",
+      "lname": "LG",
+      "lprice":"Rp. 5.000.000",
+      "lurl": "https://i.postimg.cc/3WgKkSmL/lg.jpg",
+      "ketlp":"Memiliki fitur yang beragam"
+    }
+  ]
+}
